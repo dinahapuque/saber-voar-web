@@ -1,0 +1,6 @@
+/* Saber Voar — brand color tokens, sampled from @saber_voar on Instagram
+   (profile mark + post background). Change the brand palette only here. */
+:root{
+  --sv-ink: #262d38;    /* dark navy-blue — paper-plane mark, headlines, buttons */
+  --sv-paper: #f8f8f8;  /* off-gray — page background */
+}
